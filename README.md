@@ -1,2 +1,3 @@
-# AI_Infra_Learning
+# AI Infratructure Learning
 Haiyu's AI Infrastructure Learning Repo
+
